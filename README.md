@@ -3,7 +3,7 @@
 
 - Between 2018 and 2022, I had my own CS:GO cheat that performed well. I received no bans.
 
-- In 2020, as part of a school project, I built my own weather station with numerous sensors.
+- In 2020, as part of a school project, I built my own weather station with numerous sensors and ESP's
 
 - In 2024, I built my own LoRa chat using Heltec ESPs. -> https://github.com/DevBigJoe/LoRaTxRxChat
 
