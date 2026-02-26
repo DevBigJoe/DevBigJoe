@@ -5,7 +5,7 @@
 
 - In 2020, as part of a school project, I built my own weather station with numerous sensors.
 
-- In 2024, I built my own LoRa chat using Heltec ESPs.
+- In 2024, I built my own LoRa chat using Heltec ESPs. -> https://github.com/DevBigJoe/LoRaTxRxChat
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlphaCentaurieNet) 
