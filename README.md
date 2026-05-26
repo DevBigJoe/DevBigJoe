@@ -1,13 +1,13 @@
 # Important
 ## My first successes:
 
-- Between 2018 and 2022, I had my own CS:GO cheat that performed well. I received no bans.
+- Between 2018 and 2022, I had my own game modification program that performed well. Just checkout my YouTube profile.
 
-- In 2019 I Wrote my first web-scraping program with python. New version: -> https://github.com/DevBigJoe/python_scraper_and_aggregators
+- In 2019 I Wrote my first web-scraping program with python. New version with small GUI is right here: -> https://github.com/DevBigJoe/python_scraper_and_aggregators
 
 - In 2020, as part of a school project, I built my own weather station with numerous sensors and ESP's
 
-- In 2024, I built my own LoRa chat using Heltec ESPs. -> https://github.com/DevBigJoe/LoRaTxRxChat
+- In 2024, I built my own LoRa chat using Heltec ESPs. A faster mesh-based LoRa encrypted version is right here -> https://github.com/DevBigJoe/LoRaTxRxChat
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AlphaCentaurieNet) 
